@@ -19,5 +19,8 @@ table
     background-color: lightgray;
     width: 23vh;
     height: 23vh;
+    text-align: center;
+    vertical-align: center;
+    font-size: 40px;
 
 }

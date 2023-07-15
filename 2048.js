@@ -27,13 +27,13 @@ document.addEventListener('keydown', (e) =>
     {
         playRight();
     }
-    else if (e.key === ' ')
-    {
-        addRandomNum();
-    }
     if (movementOccurred(board))
     {
         addRandomNum()
+    }
+    else if (e.key === ' ')
+    {
+        addRandomNum();
     }
 })
 

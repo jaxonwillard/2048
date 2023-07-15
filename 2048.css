@@ -1,0 +1,24 @@
+table
+{
+    border: 1px;
+    display: grid;
+
+}
+
+
+.tr-class
+{
+    border: 1px;
+    border-color: black;
+    padding: 10px;
+}
+
+.td-class
+{
+
+    background-color: lightgray;
+    width: 23vh;
+    height: 23vh;
+    display:
+
+}
